@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+h1, h2 {
+  margin: 0;
+}
+
+#submit-btn {
+  margin-left: 10px;
+}
+
+#result-table {
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+#result-table th, #result-table td {
+  border: 1px solid black;
+  padding: 5px;
+  text-align: center;
+}
