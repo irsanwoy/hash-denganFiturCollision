@@ -1,4 +1,4 @@
-// Mendapatkan referensi elemen pada halaman web
+// Mendapatkan referensi elemen pada halaman webuhuh
 const keyInput = document.getElementById('key-input');
 const submitBtn = document.getElementById('submit-btn');
 const resultTable = document.getElementById('result-table').getElementsByTagName('tbody')[0];
